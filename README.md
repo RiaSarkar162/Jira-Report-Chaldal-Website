@@ -1,1 +1,2 @@
-# Jira-Report-on-Chaldal-Website
+# Jira-Report-for-Chaldal-Website
+Total number of bug issues: 06
